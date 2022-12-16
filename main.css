@@ -1,0 +1,39 @@
+body {
+    background-color: #4F696A;
+    color: white;
+    text-transform: uppercase;
+}
+
+.container {
+    background-color: black;
+    width: 800px;
+    height: 850px;
+    margin: 0 auto;
+}
+
+.text-welcome__to {
+    padding: 40px;
+    text-align: center;
+    font-size: 70px;   
+}
+
+.foto-1 > img {
+    display: block;
+    width: 170px;
+    margin-left: 315px;
+    font-size: 3px;
+}
+
+.welcome-to_2 {
+    text-align: center;
+    font-weight: 50;
+    font-size: 15px;
+}
+
+.text-on__the {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 50;
+}
+
